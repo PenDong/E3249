@@ -1,0 +1,9 @@
+﻿E:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (E:\wpdpack\WpdPack\Examples-pcap\\Debug\x86\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, UDPdump.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  pcap_filter.c
+E:\wpdpack\WpdPack\Examples-pcap\pcap_filter\pcap_filter.c(119): warning C4701: 使用了可能未初始化的局部变量“fp”
+E:\wpdpack\WpdPack\Examples-pcap\pcap_filter\pcap_filter.c(119): warning C4703: 使用了可能未初始化的本地指针变量“fp”
+E:\wpdpack\WpdPack\Examples-pcap\pcap_filter\pcap_filter.c(162): warning C4701: 使用了可能未初始化的局部变量“dumpfile”
+E:\wpdpack\WpdPack\Examples-pcap\pcap_filter\pcap_filter.c(162): warning C4703: 使用了可能未初始化的本地指针变量“dumpfile”
+pcap_filter.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  pcap_filter.vcxproj -> E:\wpdpack\WpdPack\Examples-pcap\\Debug\x86\pcap_filter.exe
